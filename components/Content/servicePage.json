@@ -1,0 +1,92 @@
+{
+  "metaTitle": "Roofing & Gutter Services in [location] | Heights Roofing",
+  "metaDescription": "We provide expert roof inspection, roof repair, new roof installation, roof replacement, gutter repair, gutter installation & gutter replacement in [location]. Trusted local roofing contractors. Call [phone] for a free estimate today.",
+  "bannerQuote": "",
+  "bannerImage": "https://ik.imagekit.io/z6skgnupx/heightsroofing_net/Roofing_Services_servicePage_bannerImage_SEO.jpg",
+  "h1Banner": "Professional Roofing & Gutter Services in [location]",
+  "p1Banner": "We provide expert roof inspection, roof repair, new roof installation, roof replacement, gutter repair, gutter installation & gutter replacement in [location]. Trusted local roofing contractors. Call [phone] for a free estimate today.",
+  "serviceTitle": "",
+  "serviceData": {
+    "title": "Comprehensive Roofing & Gutter Solutions",
+    "p": "Heights Roofing is the go-to contractor for homeowners in [location] looking for reliable roofing and gutter services. Our licensed roofers handle inspections, emergency roof repair, new roof installations, and full roof replacements with premium materials designed for durability. We also specialize in gutter repair, gutter installation, and gutter replacement to ensure proper drainage and protect your roofline and foundation. Call [phone] today for trusted service, transparent pricing, and free estimates.",
+    "lists": [
+      {
+        "title": "Roof Inspection in [location]",
+        "description": "Call [phone]. Professional roof inspection services in [location] to identify leaks, damage, and potential issues early.",
+        "h2": "Thorough Roof Inspections for Peace of Mind",
+        "p2": "Our certified inspectors check shingles, flashing, gutters, and attic ventilation to ensure your roof is structurally sound. We provide photo documentation and repair recommendations for maintenance or insurance claims.",
+        "h3": "Our Roof Inspection Covers",
+        "p3": "Shingle & flashing checks | Leak detection | Storm & hail assessments | Ventilation review | Gutter performance check",
+        "seoContent": "<h2>Roof Inspection Services in [location]</h2><p>Heights Roofing provides detailed roof inspection services in [location] to help homeowners prevent costly repairs. Our inspections identify hidden leaks, storm damage, and ventilation problems, keeping your roof in top shape. Call [phone] for a certified roof inspection today.</p>",
+        "slug": "roof-inspection",
+        "imageUrl": "https://ik.imagekit.io/z6skgnupx/heightsroofing_net/services_roof_inspection.jpg"
+      },
+      {
+        "title": "Roof Repair in [location]",
+        "description": "Call [phone]. Fast, reliable roof repair in [location] for leaks, missing shingles, and storm damage.",
+        "h2": "Quick & Effective Roof Repairs",
+        "p2": "From emergency leak repair to replacing missing shingles, we provide fast roof repair services in [location]. Our skilled roofers use premium materials to restore your roof and prevent interior damage.",
+        "h3": "Roof Repairs We Handle",
+        "p3": "Leak patching | Shingle replacement | Flashing repairs | Storm damage restoration | Chimney & vent fixes",
+        "seoContent": "<h2>Roof Repair in [location]</h2><p>Heights Roofing offers dependable roof repair services across [location]. Whether from storm damage or wear and tear, our roof repairs extend roof life and protect your home. Call [phone] for emergency or scheduled repairs.</p>",
+        "slug": "roof-repair",
+        "imageUrl": "https://ik.imagekit.io/z6skgnupx/heightsroofing_net/services_roof_repair.jpg"
+      },
+      {
+        "title": "New Roof Installation in [location]",
+        "description": "Call [phone]. Professional new roof installation in [location] with premium materials and warranties.",
+        "h2": "Durable New Roofs Built to Last",
+        "p2": "Our new roof installation service covers shingle, metal, tile, and flat roofing systems. We handle tear-off (if needed), decking inspection, underlayment, ventilation upgrades, and full installation.",
+        "h3": "Roof Types We Install",
+        "p3": "Asphalt shingles | Architectural shingles | Metal roofing | Tile roofs | Energy-efficient roofing",
+        "seoContent": "<h2>New Roof Installation in [location]</h2><p>Trust Heights Roofing for expert new roof installation in [location]. We help you select the right material, provide transparent pricing, and ensure proper installation for lasting performance. Call [phone] today for a free consultation.</p>",
+        "slug": "new-roof-installation",
+        "imageUrl": "https://ik.imagekit.io/z6skgnupx/heightsroofing_net/services_new_roof.jpg"
+      },
+      {
+        "title": "Roof Replacement in [location]",
+        "description": "Call [phone]. Full roof replacement in [location] including tear-off, installation, and warranties.",
+        "h2": "Complete Roof Replacement for Homes",
+        "p2": "When repairs are no longer enough, our roof replacement crews provide tear-off, decking inspection, underlayment, and complete installation with premium shingles or metal roofing. We back every job with warranties.",
+        "h3": "Why Choose Our Roof Replacement",
+        "p3": "Full tear-off | Decking & structure checks | Premium roofing options | Energy-efficient upgrades | Manufacturer-backed warranties",
+        "seoContent": "<h2>Roof Replacement in [location]</h2><p>Heights Roofing provides expert roof replacement in [location] to restore safety, energy efficiency, and curb appeal. Our licensed crews deliver durable results with guaranteed workmanship. Call [phone] for a free replacement estimate.</p>",
+        "slug": "roof-replacement",
+        "imageUrl": "https://ik.imagekit.io/z6skgnupx/heightsroofing_net/services_roof_replacement.jpg"
+      },
+      {
+        "title": "Gutter Repair in [location]",
+        "description": "Call [phone]. Gutter repair services in [location] to fix leaks, clogs, and drainage problems.",
+        "h2": "Expert Gutter Repairs to Protect Your Home",
+        "p2": "We repair sagging gutters, leaks, and downspout issues to ensure proper drainage. Prompt gutter repairs prevent roof leaks, siding damage, and foundation erosion.",
+        "h3": "Common Gutter Repairs",
+        "p3": "Leak sealing | Joint repair | Downspout fixes | Sagging gutter adjustments | Clog clearing",
+        "seoContent": "<h2>Gutter Repair in [location]</h2><p>Heights Roofing offers professional gutter repair services in [location]. Our repairs restore proper water flow and prevent costly damage to your roof and foundation. Call [phone] today for gutter repair services.</p>",
+        "slug": "gutter-repair",
+        "imageUrl": "https://ik.imagekit.io/z6skgnupx/heightsroofing_net/services_gutter_repair.jpg"
+      },
+      {
+        "title": "Gutter Installation in [location]",
+        "description": "Call [phone]. Gutter installation in [location] with seamless gutters, downspouts, and gutter guard options.",
+        "h2": "Custom Gutter Installation for Better Drainage",
+        "p2": "We install seamless gutters and downspouts tailored to your home. Our gutter systems improve drainage, protect siding, and prevent water damage.",
+        "h3": "Gutter Installation Options",
+        "p3": "Seamless aluminum gutters | Copper gutters | Gutter guards | Downspout installation | Drainage solutions",
+        "seoContent": "<h2>Gutter Installation in [location]</h2><p>Heights Roofing installs high-quality gutters in [location] to protect homes from water intrusion. Our seamless gutter systems reduce leaks and require less maintenance. Call [phone] for a free gutter installation estimate.</p>",
+        "slug": "gutter-installation",
+        "imageUrl": "https://ik.imagekit.io/z6skgnupx/heightsroofing_net/services_gutter_installation.jpg"
+      },
+      {
+        "title": "Gutter Replacement in [location]",
+        "description": "Call [phone]. Full gutter replacement in [location] to upgrade old, damaged, or undersized systems.",
+        "h2": "Upgrade Your Home with Gutter Replacement",
+        "p2": "If your gutters are failing, we provide complete gutter replacement with seamless systems that match your roof and exterior. We remove old gutters, repair fascia if needed, and install new systems built to last.",
+        "h3": "Our Replacement Process",
+        "p3": "Old gutter removal | Fascia board inspection | Seamless gutter replacement | Gutter guard installation | Warranty-backed systems",
+        "seoContent": "<h2>Gutter Replacement in [location]</h2><p>Heights Roofing provides professional gutter replacement services in [location]. Our seamless gutters improve drainage, protect your foundation, and enhance curb appeal. Call [phone] to book your gutter replacement estimate.</p>",
+        "slug": "gutter-replacement",
+        "imageUrl": "https://ik.imagekit.io/z6skgnupx/heightsroofing_net/services_gutter_replacement.jpg"
+      }
+    ]
+  }
+}

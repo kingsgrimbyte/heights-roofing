@@ -1,0 +1,29 @@
+{
+  "metaTitle": "Roofing Contractor in [location] | About Us",
+  "metaDescription": "Heights Roofing is the local roofing company specializing in roof repair, roof replacement, roof inspection, and emergency roof services in [location]. Call us now at [phone].",
+  "bannerQuote": "",
+  "bannerImage": "https://ik.imagekit.io/z6skgnupx/heightsroofing_net/Roofing_Services_about_bannerImage_QqZpDeaKw.jpg",
+  "h1Banner": "Roofing Contractor in [location] | About Us",
+  "p1Banner": "Heights Roofing is the local roofing company specializing in roof repair, roof replacement, roof inspection, and emergency roof services in [location]. Call us now at [phone].",
+  "p2": "Heights Roofing delivers professional roofing services across [location] for homeowners, property managers, real estate professionals, and contractors. Whether you need a minor roof repair, full roof replacement, storm damage restoration, or a certified roof inspection for insurance claims, our licensed and insured roofers handle shingle roofs, metal roofing, flat roofs, and tile systems with precision. We use high-quality materials from top manufacturers and back our work with industry-leading warranties and workmanship guarantees. As a local [location] roofing company, we offer fast emergency tarping, same-day assessments, detailed roof reports, and straightforward pricing—no unexpected fees. Looking for 'roofing contractors near me' or 'emergency roof repair in [location]'? Call [phone] for prompt service, transparent estimates, and financing options to fit your budget.",
+  "h2Image": "https://ik.imagekit.io/z6skgnupx/heightsroofing_net/Roofing_Services_about_h2Image_vsU-oK8lU.jpg",
+  "missionSection": [
+    {
+      "title": "Our Mission",
+      "description": "To protect homes and businesses across [location] by delivering expert roof repair, reliable roof replacement, and honest roof inspections—on time, on budget, and with unmatched craftsmanship."
+    },
+    {
+      "title": "Our Vision",
+      "description": "To be [location]'s most trusted roofing contractor — known for transparent pricing, high-performance roofing systems, rapid emergency response, and long-term relationships with our community."
+    },
+    {
+      "title": "Our Values",
+      "description": "Safety, integrity, and quality workmanship guide every project. We prioritize clear communication, protect your property during work, honor manufacturer warranties, and follow best practices for sustainable, code-compliant roofing solutions."
+    }
+  ],
+  "areaweserveSection": {
+    "description": "We proudly provide roofing services across [location], delivering roof repair, roof replacement, inspections, storm damage restoration, and preventative maintenance to single-family homes, multi-family properties, commercial buildings, and construction sites.",
+    "linkText": "Check our Roofing service locations here.",
+    "link": "/locations"
+  }
+}
